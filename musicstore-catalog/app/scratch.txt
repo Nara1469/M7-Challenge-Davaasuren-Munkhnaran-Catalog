@@ -1,0 +1,8 @@
+
+mysql://pskixxzc3odi4r2y:knp64inuq2fmdi64@h1use0ulyws4lqr1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/qt7ntpgn6zc6ybe6
+
+SPRING_DATASOURCE_URL jdbc:mysql://h1use0ulyws4lqr1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/qt7ntpgn6zc6ybe6
+SPRING_DATASOURCE_USERNAME  pskixxzc3odi4r2y
+SPRING_DATASOURCE_PASSWORD   knp64inuq2fmdi64
+
+MySQL Workbench Hostname: h1use0ulyws4lqr1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
