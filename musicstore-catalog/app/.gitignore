@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Resources ###
+musicstore-catalog/app/src/main/resources/*.properties
+musicstore-catalog/app/src/test/resources/*.properties
+
+musicstore-catalog/app/*.txt
